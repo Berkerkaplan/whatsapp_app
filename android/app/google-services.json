@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "279041856862",
+    "project_id": "chat-9bcf7",
+    "storage_bucket": "chat-9bcf7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279041856862:android:ec27ea0695043469c22bcf",
+        "android_client_info": {
+          "package_name": "com.berk.whatsapp_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279041856862-e9jjejac4mk2cbkueb2il76oam3vkjb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8UGhWK-ZfUnuGo5A2vs8o9irF1QQYM3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279041856862-e9jjejac4mk2cbkueb2il76oam3vkjb8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
